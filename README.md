@@ -18,7 +18,7 @@ Official public release repository for **SA:GE** (*Stardew Authoring : Game Edit
 * **Stardew Valley 1.6 Modernization**: Full support for Qualified Item Routing (`Data/Objects`, `Data/BigCraftables`, `Data/Weapons`), visual Recipe Studio with 6-token string serialization, multi-token mail attachments, and canonical trigger actions.
 * **Manifest Disk Authority**: `manifest.json` is the sole source of truth on disk for mod metadata and dependencies, eliminating project drift.
 * **Cross-System Cohesion & Reference Safety**: Live dependency reference validation across Quests, Recipes, Items, Mail, Maps, Characters, and Tilesheets.
-* **Hardened Release Packaging Hygiene**: Zero debug symbols (`.pdb`) or development metadata in distributed public binaries.
+* **Hardened Release Packaging Hygiene**: Automated verification and clean, optimized distribution in public binaries.
 
 ---
 
